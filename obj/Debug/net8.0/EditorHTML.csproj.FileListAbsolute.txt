@@ -1,0 +1,14 @@
+/Users/farvillage/EditorHTML/bin/Debug/net8.0/EditorHTML
+/Users/farvillage/EditorHTML/bin/Debug/net8.0/EditorHTML.deps.json
+/Users/farvillage/EditorHTML/bin/Debug/net8.0/EditorHTML.runtimeconfig.json
+/Users/farvillage/EditorHTML/bin/Debug/net8.0/EditorHTML.dll
+/Users/farvillage/EditorHTML/bin/Debug/net8.0/EditorHTML.pdb
+/Users/farvillage/EditorHTML/obj/Debug/net8.0/EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farvillage/EditorHTML/obj/Debug/net8.0/EditorHTML.AssemblyInfoInputs.cache
+/Users/farvillage/EditorHTML/obj/Debug/net8.0/EditorHTML.AssemblyInfo.cs
+/Users/farvillage/EditorHTML/obj/Debug/net8.0/EditorHTML.csproj.CoreCompileInputs.cache
+/Users/farvillage/EditorHTML/obj/Debug/net8.0/EditorHTML.dll
+/Users/farvillage/EditorHTML/obj/Debug/net8.0/refint/EditorHTML.dll
+/Users/farvillage/EditorHTML/obj/Debug/net8.0/EditorHTML.pdb
+/Users/farvillage/EditorHTML/obj/Debug/net8.0/EditorHTML.genruntimeconfig.cache
+/Users/farvillage/EditorHTML/obj/Debug/net8.0/ref/EditorHTML.dll
